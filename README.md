@@ -1,7 +1,7 @@
 <img src="https://img.shields.io/github/v/release/Vince-Zhu/CangJie?display_name=tag&color=brightgreen"/> <img src="https://img.shields.io/github/release-date/Vince-Zhu/CangJie?color=brightgreen"/> <img src="https://img.shields.io/github/downloads/Vince-Zhu/CangJie/total?color=brightgreen"/>  
 <img src="https://img.shields.io/badge/flutter-v3.0.4-blue?logo=flutter"/> <img src="https://img.shields.io/badge/dart-v2.17.5-blue?logo=dart"/>
 # 仓颉 universal版
-<img src="https://github.com/Vince-Zhu/cju_repo/blob/main/cju_logo.png"/>
+<img src="https://github.com/Vince-Zhu/CangJie/blob/main/cangjie_logo.png"/>
 
 ## 版本信息
 
